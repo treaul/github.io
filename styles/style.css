@@ -1,1 +1,33 @@
+html {
+  background-color: #00001F;
+  padding: 20px 20px 20px 20px;
+}
 
+body {font-family: 'Work Sans', sans-serif;
+  width: auto;
+  margin: 0 auto;
+  background-color: #FFFFFF;
+  padding: 0px 0px 0px 20px;
+  border: 2px solid magenta;}
+
+h1 {
+  margin: 0;
+  font-size: 40px;
+  text-align: left;
+  padding: 20px 0;
+  color: #222222;
+  text-shadow: 1px 1px 1px white;
+}
+
+li {
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+}
